@@ -13,10 +13,15 @@
   
   <div style="display: inline_block"><br>
    
+   <p> Stacks
  <p>
   <img alt="Swift" title="Swift" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> 
+  <img alt="Flutter" title="Flutter" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img alt="Dart" title="Dart" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </p>
    
+   ##
+   <p> Social
  <p>
   <a href="https://www.linkedin.com/in/marcylene-barreto/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </p>
