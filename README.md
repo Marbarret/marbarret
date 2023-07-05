@@ -13,17 +13,20 @@
   
   <div style="display: inline_block"><br>
    
-   <p> Stacks
- <p>
-  <img alt="Swift" title="Swift" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> 
-  <img alt="Flutter" title="Flutter" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img alt="Dart" title="Dart" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+<p> Stacks
+<p>
+<img src="https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=white&color=orange"> 
+<!-- <img src="https://img.shields.io/badge/SwiftUI-pink?style=for-the-badge&logo=swift&logoColor=white&color=blue"> -->
+<img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=white&color=2868A7">
+<img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=white&color=027DFD">
 </p>
+
    
    ##
-   <p> Social
- <p>
-  <a href="https://www.linkedin.com/in/marcylene-barreto/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<p> Social
+<p>
+<a href="https://www.linkedin.com/in/marcylene-barreto/"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&color=blue"></a>
+<a href="https://www.instagram.com/marcisouz/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b"></a>
 </p>
    
 </div>
