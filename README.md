@@ -1,6 +1,8 @@
 ### Oi tudo bem? Eu sou a Marcy 😊
 ##
 
+Sou estudante de Ciência da Computação e entusiasta de desenvolvimento mobile.
+
   <div style="display: inline_block"><br>
    
 <p> Stacks
