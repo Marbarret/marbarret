@@ -1,7 +1,9 @@
 ### Oi tudo bem? Eu sou a Marcy 😊
-##
+<p>Sou estudante de Ciência da Computação e entusiasta de desenvolvimento mobile.</p>
 
-Sou estudante de Ciência da Computação e entusiasta de desenvolvimento mobile.
+##
+<p> Hi, how are you? I'm Marcy.</p>
+<p> I'm a Computer Science student and a mobile development enthusiast.</p>
 
   <div style="display: inline_block"><br>
    
