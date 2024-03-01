@@ -6,12 +6,16 @@
 <p> I'm a Computer Science student and a mobile development enthusiast.</p>
 
 <div style="display: inline_block"><br>
-
-
-<img src="https://github.com/Marbarret/marbarret/blob/main/assets/ios_pf.png" height="28" width="100">
-<img src="https://github.com/Marbarret/marbarret/blob/main/assets/android_pf.png" height="28" width="100">
-<img src="https://github.com/Marbarret/marbarret/blob/main/assets/others.png" height="28" width="100">
    
+<p> Portfolios 
+<p>
+<a href="https://github.com/Marbarret/iOS_portfolio"><img src="https://github.com/Marbarret/marbarret/blob/main/assets/ios_pf.png" height="28" width="100"></a>
+<a href="https://github.com/Marbarret/android_portfolio"><img src="https://github.com/Marbarret/marbarret/blob/main/assets/android_pf.png" height="28" width="100"></a>
+<a href="https://github.com/Marbarret/otherProjects"><img src="https://github.com/Marbarret/marbarret/blob/main/assets/others.png" height="28" width="100"></a>
+
+</p>
+
+   ##
 <p> Stacks
 <p>
 <img src="https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=white&color=orange"> 
