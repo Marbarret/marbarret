@@ -5,7 +5,12 @@
 <p> Hi, how are you? I'm Marcy.</p>
 <p> I'm a Computer Science student and a mobile development enthusiast.</p>
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+
+
+<img src="https://github.com/Marbarret/marbarret/blob/main/assets/ios_pf.png" height="28" width="100">
+<img src="https://github.com/Marbarret/marbarret/blob/main/assets/android_pf.png" height="28" width="100">
+<img src="https://github.com/Marbarret/marbarret/blob/main/assets/others.png" height="28" width="100">
    
 <p> Stacks
 <p>
