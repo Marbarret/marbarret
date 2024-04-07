@@ -40,6 +40,7 @@ Oi tudo bem? Eu sou a Marcy 😊
 <a href="https://www.linkedin.com/in/marcylene-barreto/"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&color=blue"></a>
 <a href="https://www.instagram.com/marcisouz/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b"></a>
 <a href="https://open.spotify.com/playlist/7mNFpK9ykK53ocitPM6XjJ?si=b10ffc90b8414bbb"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://dev.to/marbarret"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
    
 </div>
