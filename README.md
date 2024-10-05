@@ -27,7 +27,6 @@ Oi tudo bem? Eu sou a Marcy 😊
 <!-- <img src="https://img.shields.io/badge/SwiftUI-pink?style=for-the-badge&logo=swift&logoColor=white&color=blue"> -->
 <img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=white&color=2868A7">
 <img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=white&color=027DFD">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
