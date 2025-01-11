@@ -2,6 +2,7 @@
 Oi tudo bem? Eu sou a Marcy 😊
 <p>Sou estudante de Ciência da Computação e entusiasta de desenvolvimento mobile.</p>
 
+  
 ##
 <p> Hi. I'm Marcy.</p>
 <p> I'm a Computer Science student and a mobile development enthusiast.</p>
@@ -50,7 +51,8 @@ Oi tudo bem? Eu sou a Marcy 😊
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marbarret&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marbarret&layout=compact&langs_count=7&theme=onedark"/>
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marbarret&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   [![roadmap.sh](https://roadmap.sh/card/tall/6782b15b70129741a819eb0f?variant=dark&roadmaps=ios)](https://roadmap.sh)
+
 </div>
   
 </div>
